@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recherche de formations</string>
+    <string name="title_formation_detail">Détails de la formation</string>
+    <string name="title_formation_list">Résultats de la recherche</string>
+</resources>
